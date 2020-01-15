@@ -1,2 +1,2 @@
 # docker-ansible
-Docker container for Ansible 2.8
+Docker container for Ansible
